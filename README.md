@@ -21,15 +21,18 @@ Backend stack:
 🛒 Online shop [✅complete] - React, Redux, PostgreSQL, Nest, Jwt  
 [Frontend Code](https://github.com/Rvinand/internet_store/tree/main/client) [Backend Code](https://github.com/Rvinand/internet_store/tree/main/server)
 
-📒 [Task list](https://my-task.onrender.com/) [✅complete] - React, Redux, Typescript, React-Bootstrap  
+📒 [Task list](https://my-task.onrender.com/) [✅complete] - React, Redux, TypeScript, React-Bootstrap  
 [Frontend Code](https://github.com/Rvinand/my-task)
 
-🎰 [CS:GO roulette](https://roulette-0ags.onrender.com/) [✅complete] - React, Redux, Typescript, React-Bootstrap  
+🎰 [CS:GO roulette](https://roulette-0ags.onrender.com/) [✅complete] - React, Redux, TypeScript, React-Bootstrap  
 [Frontend Code](https://github.com/Rvinand/roulette)
 
 
-⌨ [Text editor](https://textover.onrender.com/) [✅complete] - React, Redux, Typescript, React-Bootstrap  
+⌨ [Text editor](https://textover.onrender.com/) [✅complete] - React, Redux, TypeScript, React-Bootstrap  
 [Frontend Code](https://github.com/Rvinand/textover)
 
-🎥 [what's watch](https://whats-watch.onrender.com/) [✅complete] - React, Redux, Typescript, React-Bootstrap  
+🎥 [what's watch](https://whats-watch.onrender.com/) [✅complete] - React, Redux, TypeScript, React-Bootstrap  
 [Frontend Code](https://github.com/Rvinand/whats-watch)
+
+🥽 3d stock [▁ ▂ ▃ process] - Nest, TypeScript  
+[Backend Code](https://github.com/Rvinand/3d-stock)
