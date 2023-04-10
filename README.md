@@ -36,8 +36,3 @@ Backend stack:
 
 🥽 3d stock [▁ ▂ ▃ process] - Nest, TypeScript  
 [Backend Code](https://github.com/Rvinand/3d-stock)
-
-
-https://user-images.githubusercontent.com/83527368/230880868-072c1301-84b5-42b3-9f12-180a4e646f41.mov
-
-
