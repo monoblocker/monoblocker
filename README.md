@@ -30,6 +30,3 @@ Backend stack:
 
 ⌨ [Text editor](https://textover.onrender.com/) - React, Redux, TypeScript, React-Bootstrap  
 [Frontend Code](https://github.com/Rvinand/textover)
-
-🎥 [what's watch](https://whats-watch.onrender.com/) - React, Redux, TypeScript, React-Bootstrap  
-[Frontend Code](https://github.com/Rvinand/whats-watch)
