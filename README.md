@@ -21,6 +21,8 @@ Backend stack:
 🛒 Online shop - React, Redux, PostgreSQL, Nest, Jwt  
 [Frontend Code](https://github.com/Rvinand/internet_store/tree/main/client) [Backend Code](https://github.com/Rvinand/internet_store/tree/main/server)
 
+All project in the same place: https://apps-2qak.onrender.com/
+
 📒 [Task list](https://my-task.onrender.com/) - React, Redux, TypeScript, React-Bootstrap  
 [Frontend Code](https://github.com/Rvinand/my-task)
 
