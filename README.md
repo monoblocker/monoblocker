@@ -10,14 +10,9 @@
 ## 📄 МОИ ПРОЕКТЫ
 
 🛒 Интернет магазин - React, Redux, PostgreSQL, Nest, Jwt  
-[FRONTEND код](https://github.com/Rvinand/internet_store/tree/main/client) [Backend код](https://github.com/Rvinand/internet_store/tree/main/server)
 
 📒 [Список дел](https://my-task.onrender.com/) - React, Redux, TypeScript, React-Bootstrap  
-[Frontend код](https://github.com/Rvinand/my-task)
 
 🎰 [Рулетка CS2](https://roulette-0ags.onrender.com/) - React, Redux, TypeScript, React-Bootstrap  
-[Frontend код](https://github.com/Rvinand/roulette)
-
 
 ⌨ [Редактор текста](https://textover.onrender.com/) - React, Redux, TypeScript, React-Bootstrap  
-[Frontend код](https://github.com/Rvinand/textover)
