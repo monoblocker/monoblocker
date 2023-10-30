@@ -9,8 +9,6 @@
 
 ## 📄 МОИ ПРОЕКТЫ
 
-Все проекты в одном месте: https://apps-2qak.onrender.com/
-
 🛒 Интернет магазин - React, Redux, PostgreSQL, Nest, Jwt  
 [FRONTEND код](https://github.com/Rvinand/internet_store/tree/main/client) [Backend код](https://github.com/Rvinand/internet_store/tree/main/server)
 
